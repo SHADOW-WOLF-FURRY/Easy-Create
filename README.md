@@ -1,5 +1,7 @@
 # Easy Create
-## Developed by TheGCrew2
+## Developed by: TheGCrew2 | Github managed by: SHADOW-WOLF-FURRY 
+[<img src="image_2024-06-26_075933536.png" width="150"/>](image_2024-06-26_075933536.png)
+[<img src="HD-wallpaper-gamer-furry-art-lobo~2.jpg" width="80"/>](HD-wallpaper-gamer-furry-art-lobo~2.jpg)
 
 This is the official repository and issue-tracker for the modpack Easy Create, for Minecraft 1.20.1
 
