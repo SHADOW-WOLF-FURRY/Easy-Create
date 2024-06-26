@@ -1,5 +1,6 @@
 # Easy Create
 ## Developed by TheGCrew2
+
 This is the official repository and issue-tracker for the modpack Easy Create, for Minecraft 1.20.1
 
 ### About the modpack creator
@@ -15,6 +16,8 @@ If you encounter any issues or mod suggestions please add it to the issues tab a
 2. Click the download standalone button and it will begin downloading the curseforge app to your downloads folder on your pc
 3. open the downloaded file and follow the on screen instructions
 4. After curse forge is finished installing, open the app and go to the browse tab and search for Easy Create
+> [!NOTE]
+> When searching in the curseforge app it will only search for the first word, so you might have to scroll a little bit to find the correct modpack.
 5. Click install once you have found the correct modpack and wait for it to finish installing
 6. Thats it! You now have the Easy Create modpack installed, you can now access/edit the profile via the My Modpacks tab in the curse forge app.
 
